@@ -1,0 +1,1 @@
+Smart Crisis Management is a platform that improves disaster preparedness, response, and recovery using real-time data, predictions, and automation. It provides early alerts, efficient resource allocation, and recovery monitoring on a unified platform for authorities, rescue teams, and citizens, achieving 94.2% accuracy with faster response times.
